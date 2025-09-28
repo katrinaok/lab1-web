@@ -5,3 +5,4 @@
 2. Запустіть сервер:
    ```bash
    php -S localhost:8000
+3. Відкрийте у браузері http://localhost:8000/index.html
